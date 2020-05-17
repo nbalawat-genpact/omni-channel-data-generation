@@ -8,7 +8,7 @@ from intializejourneys import get_graph
 
 def generate_random_graph_data(journey_type="Payment Journey", init_value=10000):
 
-    G1 = get_graph(type=journey_type)
+    G1 = get_graph(type=journey_type, n=init_value)
 
     for n, node_attributes in list(G1.nodes(data=True)):
         # get the node value
