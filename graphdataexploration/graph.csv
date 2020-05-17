@@ -1,0 +1,2 @@
+,a,b,c
+0,1,2,"[('Payments - Web', 'Web - Bill Payment', {'count': 1000.0, 'perc': 1.0}), ('Web - Bill Payment', 'Web - 3rd Party Payments', {'count': 97.58151209534884, 'perc': 0.09758151209534884}), ('Web - Bill Payment', 'Web - Card Bill Pay', {'count': 481.50937309185207, 'perc': 0.48150937309185204}), ('Web - Bill Payment', 'Web - Payment History', {'count': 420.90911481279903, 'perc': 0.420909114812799})]"
